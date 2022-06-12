@@ -11,7 +11,7 @@ def turnoff(): #ฟังก์ชันปิดไฟ
     print("ไฟปิด")
 
 if__naem__== "__main__":
-    print(f'สถานะไฟ: {switch_status')
+    print(f'สถานะไฟ: {switch_status}')
     turnon()
     turnoff()
     turnoff()
