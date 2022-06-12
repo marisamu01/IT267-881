@@ -1,3 +1,4 @@
 # test python
 print("hello")
-git config --gloal user .name "marisamu01"
+print ('Woohoo')
+print ("Let's take a break")
