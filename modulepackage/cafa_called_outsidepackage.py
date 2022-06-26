@@ -1,12 +1,11 @@
 #1
-from cafe.cafe_module import Desserts
-from cafe.cafe_module import Drinks
-
-from cafe import cafe_module
+from cafe_module import Drinks
+from cafe_module import Desserts
 
 desserts = Desserts()
 print(desserts.show_desserts())
 
+#2
 drinks = Drinks()
 print(drinks.show_drinks())
 drinks.add_drinks('สมูทตี้')
